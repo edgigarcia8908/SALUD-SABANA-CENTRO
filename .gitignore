@@ -1,0 +1,18 @@
+# Archivos temporales de Excel/Office
+~$*.xlsx
+~$*.xls
+~$*.docx
+*.tmp
+
+# Basura de sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Entornos/artefactos comunes de análisis de datos (por si el bootcamp los genera aquí)
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+env/
+.env
